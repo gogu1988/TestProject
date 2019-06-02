@@ -12,7 +12,7 @@ public class a_ExecutionOrder {
  */
 	@Test
 	a_ExecutionOrder(){
-		System.out.println("executing constructor w");
+		System.out.println("executing constructor w gogu");
 	}
 	
 	@Test
