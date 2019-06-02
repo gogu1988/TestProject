@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SuiteName" duration-ms="2043" started-at="2019-06-02T06:08:38Z" finished-at="2019-06-02T06:08:40Z">
+    <groups>
+    </groups>
+    <test name="Test B" duration-ms="2039" started-at="2019-06-02T06:08:38Z" finished-at="2019-06-02T06:08:40Z">
+      <class name="b_ParallelExecution.TestB">
+        <test-method status="PASS" signature="testB()[pri:0, instance:b_ParallelExecution.TestB@3a82f6ef]" name="testB" duration-ms="2016" started-at="2019-06-02T11:38:38Z" finished-at="2019-06-02T11:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+      </class> <!-- b_ParallelExecution.TestB -->
+    </test> <!-- Test B -->
+    <test name="Test C" duration-ms="2039" started-at="2019-06-02T06:08:38Z" finished-at="2019-06-02T06:08:40Z">
+      <class name="b_ParallelExecution.TestC">
+        <test-method status="PASS" signature="testC()[pri:0, instance:b_ParallelExecution.TestC@396a51ab]" name="testC" duration-ms="2018" started-at="2019-06-02T11:38:38Z" finished-at="2019-06-02T11:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+      </class> <!-- b_ParallelExecution.TestC -->
+    </test> <!-- Test C -->
+    <test name="Test A" duration-ms="2043" started-at="2019-06-02T06:08:38Z" finished-at="2019-06-02T06:08:40Z">
+      <class name="b_ParallelExecution.TestA">
+        <test-method status="PASS" signature="testA()[pri:0, instance:b_ParallelExecution.TestA@4590c9c3]" name="testA" duration-ms="2023" started-at="2019-06-02T11:38:38Z" finished-at="2019-06-02T11:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- b_ParallelExecution.TestA -->
+    </test> <!-- Test A -->
+  </suite> <!-- SuiteName -->
+</testng-results>
